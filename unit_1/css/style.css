@@ -2,6 +2,6 @@ body {
     background-color: paleturquoise;
 }
 
-h1, p {
+h1, p, ul {
     color: dimgray;
 }

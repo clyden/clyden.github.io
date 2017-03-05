@@ -28,4 +28,7 @@ h1{
 
 p {
 	font-family: palatino, georgia, serif;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
 }

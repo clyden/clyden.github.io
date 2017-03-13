@@ -32,3 +32,27 @@ p {
 	line-height: 1.5em;
 	margin: 2em;
 }
+
+header {
+	color: #FFED74;
+}
+
+nav {
+	color:#E8C66A;
+}
+
+.headline 1 {
+	color: #FFC675;
+}
+
+.headline 2 {
+	color: #E89C6C
+}
+
+footer: {
+	color:#FF957E;
+}
+
+#wrapper {
+	color: #FFE2B8;
+}

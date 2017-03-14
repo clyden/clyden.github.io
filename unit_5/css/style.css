@@ -45,13 +45,13 @@ nav {
     padding: 20px;
 }
 
-.picture {
+aside {
 	background-color: #FFC675;
 	border: 1px black solid;
     padding: 20px;
 }
 
-.description {
+article {
 	background-color: #E89C6C
 	border: 1px black solid;
     padding: 20px;
@@ -63,7 +63,7 @@ footer: {
     padding: 20px;
 }
 
-#wrapper {
+.wrapper {
 	background-color: #FFE2B8;
 	border: 1px black solid;
     padding: 20px;

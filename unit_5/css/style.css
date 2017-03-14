@@ -35,24 +35,36 @@ p {
 
 header {
 	color: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 nav {
 	color:#E8C66A;
+	border: 1px black solid;
+    padding: 20px;
 }
 
-.headline 1 {
+.picture {
 	color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
 }
 
-.headline 2 {
+.description{
 	color: #E89C6C
+	border: 1px black solid;
+    padding: 20px;
 }
 
 footer: {
 	color:#FF957E;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 #wrapper {
 	color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }

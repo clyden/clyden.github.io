@@ -51,13 +51,13 @@ aside {
     padding: 20px;
 }
 
-.description {
+article {
 	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 20px;
 }
 
-footer: {
+footer {
 	background-color:#FF957E;
 	border: 1px black solid;
     padding: 20px;

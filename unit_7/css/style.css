@@ -42,35 +42,33 @@ p {
 }
 
 header {
-	border: 1px black solid;
     padding: 20px;
 }
 
 nav {
-	border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    border: 1px black solid;
     padding: 20px;
     float: left;
     width: 30%;
 }
 
 #right {
-    border: 1px black solid;
     padding: 20px;
     float: right;   
     width: 62%;
 }
 
 footer {
-	border: 1px black solid;
     padding: 20px;
 }
 
 div {
-	border: 1px black solid;
     padding: 20px;
+}
+
+nav{
+	float: center;
 }

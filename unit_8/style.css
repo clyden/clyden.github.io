@@ -43,10 +43,12 @@ p {
 
 header {
     padding: 20px;
+    text-align: center;
 }
 
 nav {
     padding: 20px;
+    text-align: center;
 }
 
 #left {
@@ -67,8 +69,4 @@ footer {
 
 div {
     padding: 20px;
-}
-
-nav{
-	float: none;
 }

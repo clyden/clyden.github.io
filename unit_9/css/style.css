@@ -14,6 +14,10 @@ body {
 	color:000000;
 }
 
+.header {
+  background: lightgrey;
+}
+
 h1 {
 	color:#0E2B63;
 	font-size: 2.5em;
@@ -29,11 +33,10 @@ h1 {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-#cta {
-	font-style: italic;
-	text-align: center;
-	font-size: 1.5em;
-  font-family: 'Roboto Condensed', sans-serif;
+.nav {
+  background: lightgrey; 
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 
 p {
@@ -41,22 +44,6 @@ p {
 	font-size: 1em;
 	line-height: 1.5em;
 	margin: 2em;
-}
-
-.header {
-  background: lightgrey;
-}
-
-.nav {
-  background: lightgrey; 
-  font-family: 'Roboto', sans-serif;
-  text-align: center;
-}
-
-.footer {
-  background: lightgrey;
-  font-family: 'Roboto', sans-serif;
-  text-align: center;
 }
 
 #left {
@@ -73,6 +60,13 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+.footer {
+  background: lightgrey;
+  font-style: italic;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Roboto Condensed', sans-serif;
+}
 
 div {
     padding: 20px;

@@ -56,15 +56,12 @@ p {
 .footer {
   background: lightgrey;
   font-family: 'Roboto', sans-serif;
-}
-
-.footer .inner {
-  background: lightgrey;
+  text-align: center;
 }
 
 #left {
     padding: 20px;
-    text-align: center;
+    float: left;
     width: 30%;
     font-family: 'Roboto', sans-serif;
 }

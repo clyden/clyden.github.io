@@ -16,7 +16,7 @@ body {
 
 h1 {
 	color:#0E2B63;
-	font-size: 2em;
+	font-size: 2.5em;
 	font-weight: normal;
 	text-align:center;
   font-family: 'Alegreya', serif;
@@ -50,6 +50,7 @@ p {
 .nav {
   background: lightgrey; 
   font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 
 .footer {
@@ -63,7 +64,7 @@ p {
 
 #left {
     padding: 20px;
-    float: left;
+    text-align: center;
     width: 30%;
     font-family: 'Roboto', sans-serif;
 }

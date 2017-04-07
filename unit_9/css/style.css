@@ -41,13 +41,35 @@ p {
 	margin: 2em;
 }
 
-header {
-    padding: 20px;
+.inner {
+  width:50%;
+  max-width:960px;
+  margin:0 auto;
 }
 
-nav {
-    padding: 20px;
-    display: inline;
+.header {
+  background: black;
+}
+
+.header .inner {
+  background: grey;
+}
+
+.nav {
+  background: darkgrey; 
+}
+
+.nav .inner {
+  background:lightgrey;
+  color:black;
+}
+
+.footer {
+  background:blue;
+}
+
+.footer .inner {
+  background:darkblue;
 }
 
 #left {
@@ -62,9 +84,6 @@ nav {
     width: 62%;
 }
 
-footer {
-    padding: 20px;
-}
 
 div {
     padding: 20px;

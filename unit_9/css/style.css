@@ -3,7 +3,7 @@
 
 .clearfix:after {
     visibility: hidden;
-    display: block;
+    display: inline-block;
     font-size: 0;
     content: " ";
     clear: both;
@@ -43,28 +43,13 @@ p {
 	margin: 2em;
 }
 
-.inner {
-  width:50%;
-  max-width:960px;
-  margin:0 auto;
-}
-
 .header {
-  background: lightgrey;
-}
-
-.header .inner {
   background: lightgrey;
 }
 
 .nav {
   background: lightgrey; 
   font-family: 'Roboto', sans-serif;
-}
-
-.nav .inner {
-  background: lightgrey;
-  color:black;
 }
 
 .footer {

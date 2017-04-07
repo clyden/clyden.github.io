@@ -47,7 +47,8 @@ header {
 
 nav {
     padding: 20px;
-    text-align: center;
+    display: inline;
+    margin: 0 auto;
 }
 
 #left {

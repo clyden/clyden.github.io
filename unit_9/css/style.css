@@ -12,7 +12,6 @@
 
 body {
 	color:000000;
-  width: 100%;
 }
 
 .header {
@@ -48,20 +47,6 @@ p {
 	margin: 2em;
 }
 
-#left {
-    padding: 20px;
-    float: left;
-    width: 30%;
-    font-family: 'Roboto', sans-serif;
-}
-
-#right {
-    padding: 20px;
-    float: right;   
-    width: 62%;
-    font-family: 'Roboto', sans-serif;
-}
-
 .footer {
   background: lightgrey;
   font-style: italic;
@@ -80,5 +65,10 @@ div {
     float: none;
   }
   
+@media screen only and (min-width: 500px) {
+body {
+font-size: 12px;
+}
+
 
 

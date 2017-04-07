@@ -8,11 +8,11 @@
     content: " ";
     clear: both;
     height: 0;
-    width: 100%;
 }
 
 body {
 	color:000000;
+  width: 100%;
 }
 
 .header {

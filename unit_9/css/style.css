@@ -37,6 +37,7 @@ h1 {
   background: lightgrey; 
   font-family: 'Roboto', sans-serif;
   text-align: center;
+    margin: 0 1.6em .75em 0;
 }
 
 p {
@@ -72,3 +73,11 @@ div {
     padding: 20px;
     background: lightgrey;
 }
+
+@media only screen and (max-width: 800px) {
+  nav {
+    float: none;
+  }
+  
+
+
